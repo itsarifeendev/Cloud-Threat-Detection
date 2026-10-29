@@ -1,0 +1,18 @@
+CLOUD SECURITY THREAT ANALYSIS REPORT
+==========================================
+Total records analysed: 3
+Suspicious predictions: 2
+Normal predictions: 1
+
+Risk category counts:
+HIGH: 1
+MEDIUM: 1
+LOW: 1
+
+Detailed results file: analysis_results.csv
+
+IMPORTANT LIMITATIONS
+This model was trained on a small synthetic dataset.
+Risk thresholds are demonstration settings, not validated standards.
+Predictions do not confirm that a real attack occurred.
+Validate using representative, labelled cloud-security data.

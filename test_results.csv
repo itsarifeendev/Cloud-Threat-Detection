@@ -1,0 +1,9 @@
+
+Test_ID,Test_Case,Expected_Result,Actual_Result,Status
+TC01,Single event prediction,Prediction and SHAP output,Prediction and SHAP displayed,PASS
+TC02,CSV batch analysis,Analyse all valid records,Three records analysed,PASS
+TC03,Risk prioritization,Assign risk categories,HIGH MEDIUM LOW assigned,PASS
+TC04,Security report,Generate report files,CSV and text report generated,PASS
+TC05,Missing CSV file,Show helpful error,CSV file not found message,PASS
+TC06,Missing required columns,Reject invalid CSV,Required columns message,PASS
+TC07,Negative values,Reject negative inputs,Negative values message,PASS

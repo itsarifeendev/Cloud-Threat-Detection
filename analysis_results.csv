@@ -1,0 +1,4 @@
+failed_logins,api_requests,prediction,suspicious_probability,risk_level
+10,200,SUSPICIOUS,1.0,HIGH
+5,100,SUSPICIOUS,0.71,MEDIUM
+1,20,NORMAL,0.0,LOW
